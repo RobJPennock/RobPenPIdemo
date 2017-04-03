@@ -1,6 +1,6 @@
 applications:
 - path: .
-  memory: 512M
+  memory: 200M
   instances: 1
   domain: mybluemix.net
   name: RobPenPIdemo
